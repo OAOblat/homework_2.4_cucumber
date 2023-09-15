@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/x4oa8wluihhjnbw6?svg=true)](https://ci.appveyor.com/project/OAOblat/homework-2-4-cucumber)
